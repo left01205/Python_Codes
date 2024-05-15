@@ -1,5 +1,4 @@
-#Caesar Encrypter.
-#Decrypting
+
 b=input("Enter the word to be deciphered = ")
 l1=[]
 l2=[]
