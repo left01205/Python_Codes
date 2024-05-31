@@ -54,6 +54,7 @@ def read():
             break
     
 #Main
+import pickle
 f=open("Bintrash.dat","ab+")
 
 while True:
