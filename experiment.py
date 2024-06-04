@@ -1,0 +1,2 @@
+#Palindrome
+str=input("")
